@@ -1,5 +1,4 @@
 # Руководство пользователя Git
-## <img src="logo.png" alt="isolated" width="150"/>
 
 ### Команды на Git
 
@@ -51,4 +50,3 @@
 * Фиксируем изменения (делаем коммиты)
 * Отправляем свою версию в свой GitHub
 * На сайте GitHub нажимаем кнопку pull request
-#### Руководство взял из файла [Копия 1 семинар. Введение в контроль версий](https://gbcdn.mrgcdn.ru/uploads/asset/4685872/attachment/5cc3447d37264c5ae392dc075a1b36de.pdf) с сайта [GeekBrains](https://gb.ru/).
